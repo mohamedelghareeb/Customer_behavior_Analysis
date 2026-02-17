@@ -10,10 +10,6 @@ This project focuses on analyzing customer behavior patterns based on transactio
 - Predictive Modelling
 - Visualization of Insights
 
-## Features
-- Interactive data visualizations to explore data trends.
-- Machine learning models for predicting customer behaviors.
-- Detailed reports on customer segments and their characteristics.
 
 ## Getting Started
 1. Clone the repository:
